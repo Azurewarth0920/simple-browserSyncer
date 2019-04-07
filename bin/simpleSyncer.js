@@ -19,10 +19,8 @@ const argv = require('yargs')
   })
   .argv
 
-console.log(path.resolve(argv.d))
-
 main({
   port: argv.p,
-  directory: argv.d
+  directory: path.resolve(argv.d)
 })
 

@@ -1,10 +1,10 @@
 {
   "name": "simple-syncer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a command line browser syncer tool that helps your watch HTML, CSS, and JS files",
   "main": "lib/index.js",
   "bin": {
-    "syncer": "bin/simple-syncer.js"
+    "simpleSyncer": "bin/simple-syncer.js"
   },
   "files": [
     "bin",

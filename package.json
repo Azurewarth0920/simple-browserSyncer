@@ -4,7 +4,7 @@
   "description": "a command line browser syncer tool that helps your watch HTML, CSS, and JS files",
   "main": "lib/index.js",
   "bin": {
-    "nouhin": "bin/simple-syncer.js"
+    "syncer": "bin/simple-syncer.js"
   },
   "files": [
     "bin",

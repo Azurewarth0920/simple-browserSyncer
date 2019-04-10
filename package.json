@@ -2,10 +2,14 @@
   "name": "simple-syncer",
   "version": "0.0.1",
   "description": "a command line browser syncer tool that helps your watch HTML, CSS, and JS files",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
+  "main": "lib/index.js",
+  "bin": {
+    "nouhin": "bin/simple-syncer.js"
   },
+  "files": [
+    "bin",
+    "lib"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

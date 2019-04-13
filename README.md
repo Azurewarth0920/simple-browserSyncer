@@ -1,4 +1,4 @@
-# simple-browserSyncer
+# simple-syncer
 Inline command tool for browserSync.
 
 ## Installation

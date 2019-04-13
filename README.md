@@ -2,12 +2,11 @@
 Inline command tool for browserSync.
 
 ## Installation
-
 ```
 npm i -g simple-syncer
 ```
 
-## usage
+## Usage
 
 ```
 $ simpleSyncer

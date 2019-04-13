@@ -1,9 +1,14 @@
 {
   "name": "simple-syncer",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "a command line browser syncer tool that helps your watch HTML, CSS, and JS files",
   "main": "lib/index.js",
-  "keywords": ["commandline", "browserSync", "auto reload", "css injection"],
+  "keywords": [
+    "commandline",
+    "browserSync",
+    "auto reload",
+    "css injection"
+  ],
   "bin": {
     "simpleSyncer": "bin/simple-syncer.js"
   },

@@ -1,6 +1,6 @@
 {
   "name": "simple-syncer",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "a command line browser syncer tool that helps your watch HTML, CSS, and JS files",
   "main": "lib/index.js",
   "keywords": [
